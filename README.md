@@ -1,5 +1,9 @@
 # 👋 Salut, je suis Urbain Sedami
 
+
+<img width="1086" height="1448" alt="e6dc4bbf-bbf2-4970-b76a-6c9fc37a7a33" src="https://github.com/user-attachments/assets/46b48dac-355a-4c54-9b6f-7e4985f2a33a" />
+
+
 ### 🎓 Étudiant en Réseaux | 🇧🇯 Cotonou, Bénin | 🚀 Préparation Cisco CCNA 200-301
 
 <p align="center">
